@@ -1,0 +1,17 @@
+[
+  {
+    "level": 4,
+    "choice": 1,
+    "description": "Your Spotify Premium yearly subscription is successful."
+  },
+  {
+    "level": 4,
+    "choice": 9,
+    "description": "9. Back"
+  },
+  {
+    "level": 4,
+    "choice": 0,
+    "description": "0. Exit"
+  }
+]

@@ -1,0 +1,27 @@
+[
+  {
+    "level": 4,
+    "choice": 1,
+    "description": "1. இளையராஜா"
+  },
+  {
+    "level": 4,
+    "choice": 2,
+    "description": "2. விஜய் ஆண்டனி"
+  },
+  {
+    "level": 4,
+    "choice": 3,
+    "description": "3. ஹாரிஸ் ஜெயராஜ்"
+  },
+  {
+    "level": 4,
+    "choice": 9,
+    "description": "9. பின்"
+  },
+  {
+    "level": 4,
+    "choice": 0,
+    "description": "0. வெளியேறு"
+  }
+]

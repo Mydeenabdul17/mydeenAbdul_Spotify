@@ -1,0 +1,17 @@
+[
+	{
+		"level": 1,
+		"choice": 1,
+		"description": "1. தமிழ்"
+	},
+	{
+		"level": 1,
+		"choice": 2,
+		"description": "2. English"
+	},
+	{
+		"level": 1,
+		"choice": 0,
+		"description": "0. Exit"
+	}
+]

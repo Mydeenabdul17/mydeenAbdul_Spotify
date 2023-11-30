@@ -1,0 +1,27 @@
+[
+  {
+    "level": 3,
+    "choice": 1,
+    "description": "1. Artist"
+  },
+  {
+    "level": 3,
+    "choice": 2,
+    "description": "2. Album"
+  },
+  {
+    "level": 3,
+    "choice": 3,
+    "description": "3. Song"
+  },
+  {
+    "level": 3,
+    "choice": 9,
+    "description": "9. Back"
+  },
+  {
+    "level": 3,
+    "choice": 0,
+    "description": "0. Exit"
+  }
+]

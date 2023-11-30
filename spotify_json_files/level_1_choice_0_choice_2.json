@@ -1,0 +1,22 @@
+[
+	{
+		"level": 2,
+		"choice": 1,
+		"description": "1. Subscribe to Spotify Premium"
+	},
+	{
+		"level": 2,
+		"choice": 2,
+		"description": "2. Explore Spotify playlists"
+	},
+	{
+		"level": 2,
+		"choice": 9,
+		"description": "9. Back"
+	},
+	{
+		"level": 2,
+		"choice": 0,
+		"description": "0. Exit"
+	}
+]

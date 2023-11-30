@@ -1,0 +1,27 @@
+[
+  {
+    "level": 5,
+    "choice": 1,
+    "description": "1. நீயே ஒளி"
+  },
+  {
+    "level": 5,
+    "choice": 2,
+    "description": "2. தூரிகா"
+  },
+  {
+    "level": 5,
+    "choice": 3,
+    "description": "3. இதுவும் கடந்து போகும்"
+  },
+  {
+    "level": 5,
+    "choice": 9,
+    "description": "9. பின்"
+  },
+  {
+    "level": 5,
+    "choice": 0,
+    "description": "0. வெளியேறு"
+  }
+]

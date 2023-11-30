@@ -1,0 +1,22 @@
+[
+	{
+		"level": 2,
+		"choice": 1,
+		"description": "1. ஸ்பாடிஃபாய் பிரீமியம் சந்திக்க"
+	},
+	{
+		"level": 2,
+		"choice": 2,
+		"description": "2. ஸ்பாடிஃபாய் பிளேலிஸ்டுகளை கணக்கில் எடு"
+	},
+	{
+		"level": 2,
+		"choice": 9,
+		"description": "9. பின் செல்"
+	},
+	{
+		"level": 2,
+		"choice": 0,
+		"description": "0. வெளியேறு"
+	}
+]

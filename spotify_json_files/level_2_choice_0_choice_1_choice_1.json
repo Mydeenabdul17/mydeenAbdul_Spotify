@@ -1,0 +1,27 @@
+[
+  {
+    "level": 3,
+    "choice": 1,
+    "description": "1. மாதாந்த சந்தா - Rs.199"
+  },
+  {
+    "level": 3,
+    "choice": 2,
+    "description": "2. ஆண்டுவருட சந்தா - Rs.299"
+  },
+  {
+    "level": 3,
+    "choice": 3,
+    "description": "3. குடும்ப சந்தா - Rs.399"
+  },
+  {
+    "level": 3,
+    "choice": 9,
+    "description": "9. பின்"
+  },
+  {
+    "level": 3,
+    "choice": 0,
+    "description": "0. வெளியேறு"
+  }
+]

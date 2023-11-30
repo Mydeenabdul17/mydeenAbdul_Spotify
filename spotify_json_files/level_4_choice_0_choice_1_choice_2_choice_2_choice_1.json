@@ -1,0 +1,27 @@
+[
+  {
+    "level": 5,
+    "choice": 1,
+    "description": "1. பேடாஸ்"
+  },
+  {
+    "level": 5,
+    "choice": 2,
+    "description": "2. இனிமையான நபர்"
+  },
+  {
+    "level": 5,
+    "choice": 3,
+    "description": "3. அன்பேனும்"
+  },
+  {
+    "level": 5,
+    "choice": 9,
+    "description": "9. பின்"
+  },
+  {
+    "level": 5,
+    "choice": 0,
+    "description": "0. வெளியேறு"
+  }
+]
